@@ -10,6 +10,7 @@ public class App {
 				new Mainframe();		
 			}
 		});
+		System.out.println("Linha nova");
 	}
 
 }
